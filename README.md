@@ -1,6 +1,6 @@
 # Mateusz Bochyński
 
-### I'd rather build the system than draw the building.
+### I've always been more drawn to the system behind a drawing than to the drawing itself.
 
 MSc Arch → Agentic Engineer. I ship agent systems from spec to production.
 Architecture taught me to hunt bottlenecks. AI gave me the tools to kill them.
