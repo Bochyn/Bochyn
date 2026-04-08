@@ -47,4 +47,4 @@ Underneath all of it, one rule: **I assume the model doesn't know that it knows.
 
 I'm looking for teams where the hard part is translating a messy domain into a system that actually runs. AI startups, B2B tools, AEC tech: anywhere the problem is the workflow, not the framework.
 
-[mateuszbochynski.com](https://mateuszbochynski.com?utm_source=github&utm_medium=profile&utm_campaign=readme-contact) · [LinkedIn](https://www.linkedin.com/in/mateusz-bochyński) · [@MateuszM8](https://x.com/MateuszM8) · [m8@mateuszbochynski.com](mailto:m8@mateuszbochynski.com)
+[mateuszbochynski.com](https://mateuszbochynski.com?utm_source=github&utm_medium=profile&utm_campaign=readme-contact) · [LinkedIn](https://www.linkedin.com/in/mateusz-bochyński) · [@M8Mateusz](https://x.com/M8Mateusz) · [m8@mateuszbochynski.com](mailto:m8@mateuszbochynski.com)
