@@ -15,7 +15,7 @@ Architecture taught me to hunt bottlenecks. AI gave me the tools to kill them.
 
 - **[Personal AI Agent](https://mateuszbochynski.com/en/builds/personal-ai-agent?utm_source=github&utm_medium=profile&utm_campaign=readme-chadli):** 24/7 agent running on a home Ubuntu server, navigating a 3,800-node Obsidian knowledge graph via wikilinks. Three-layer memory, cross-tool adapters, Telegram, Slack, and Discord channels.
 
-- **[Rhino 8 Image Studio](https://mateuszbochynski.com/en/builds/ai-image-studio?utm_source=github&utm_medium=profile&utm_campaign=readme-ris)** · [code](https://github.com/Bochyn/Rhino-8-Image-Studio): Desktop plugin for Rhino 8 that captures 3D viewports and generates photorealistic renders through Gemini and fal.ai. A plugin-based model layer lets me ship new AI models the same day they drop.
+- **[AI Image Studio](https://mateuszbochynski.com/en/builds/ai-image-studio?utm_source=github&utm_medium=profile&utm_campaign=readme-ai-image-studio)** · [code](https://github.com/Bochyn/AI-Image-Studio): Desktop plugin for Rhino 8 that captures 3D viewports and generates photorealistic renders through Gemini and fal.ai. A plugin-based model layer lets me ship new AI models the same day they drop.
 
 - **[IFC Inspector](https://mateuszbochynski.com/en/builds/ifc-inspector?utm_source=github&utm_medium=profile&utm_campaign=readme-ifc)** · [code](https://github.com/Bochyn/IFC-Inspector): Terminal BIM file inspector in pure Rust with a hand-written STEP/ISO-10303 parser. Audits a 45 MB Revit export in 2 seconds instead of 2 minutes.
 
