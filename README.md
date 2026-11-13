@@ -23,7 +23,7 @@ I work directly with clients, from shaping designs with them as an architect to 
   <img src="how-agents-work.webp" alt="How the agents worked on the Warsaw Spire wind study: I talk to Grok Bot, which steers the orchestrator, Claude in T3 Code. The orchestrator hands the work to agent teams, and an AI Council of models from four companies reviews the results.">
 </picture>
 
-I talk to one agent, Grok Bot. It steers an orchestrator, Claude in T3 Code, which hands the work to teams of agents, while an AI Council of models from four companies reviews the results. Before a task starts I set how the result will be validated and what counts as success. On the [Warsaw Spire wind study](https://mateuszbochynski.com/en/blog/wind-simulation-warsaw-spire?utm_source=github&utm_medium=profile&utm_campaign=readme-method) that meant stopping a convincing but wrong simulation, validating the setup against a wind-tunnel test and raising the match from 57% to 92–94% of points.
+I talk to one agent, Grok Bot. It steers an orchestrator, Claude in [T3 Code](https://github.com/pingdotgg/t3code), which hands the work to teams of agents, while an AI Council of models from four companies reviews the results. Before a task starts I set how the result will be validated and what counts as success. On the [Warsaw Spire wind study](https://mateuszbochynski.com/en/blog/wind-simulation-warsaw-spire?utm_source=github&utm_medium=profile&utm_campaign=readme-method) that meant stopping a convincing but wrong simulation, validating the setup against a wind-tunnel test and raising the match from 57% to 92–94% of points.
 
 ---
 
